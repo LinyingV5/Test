@@ -10,5 +10,6 @@ public class Exercise : MonoBehaviour
          * 在控制台里写下“任意一句话 ——你的名字"
          */
         print("请开始你的表演 ——大瓜子");
+        print("hello world ——周庆喆");
     }
 }
