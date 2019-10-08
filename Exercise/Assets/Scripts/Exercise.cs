@@ -11,5 +11,6 @@ public class Exercise : MonoBehaviour
          */
         print("请开始你的表演 ——大瓜子");
         print("hello world ——周庆喆");
+        print("萌新请多多关照——陈君靖");
     }
 }
