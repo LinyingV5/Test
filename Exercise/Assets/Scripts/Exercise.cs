@@ -14,5 +14,6 @@ public class Exercise : MonoBehaviour
         print("萌新请多多关照——陈君靖");
         print("大家好——张晓峰");
         print("well,nice to meet you——雷泽彪");
+        print("= =终于整明白了——韩东根");
     }
 }
