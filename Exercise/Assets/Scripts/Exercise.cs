@@ -17,5 +17,6 @@ public class Exercise : MonoBehaviour
         print("= =终于整明白了——韩东根");
         print("我来垫底——王奕琛");
         print("赶上末班车——沈浩文");
+        print("队尾做成——郑嘉伟");
     }
 }
