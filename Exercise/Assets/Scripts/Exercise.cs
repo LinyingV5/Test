@@ -18,5 +18,6 @@ public class Exercise : MonoBehaviour
         print("我来垫底——王奕琛");
         print("赶上末班车——沈浩文");
         print("咕咕,不择手段地咕咕——郑嘉伟");
+        object p = print("\n错了错了下次不敢了-张琦智");
     }
 }
